@@ -25,3 +25,8 @@
   background-color: #444;
   color: #fff;
 }
+.fundo-branco {
+  background-image: url("../img/acomodação6.jpg");
+  background-attachment: fixed;
+  background-size: 100;
+}
